@@ -1,6 +1,7 @@
 # What is Scrapy-nHentai?
 **Scrapy-nHentai** is a simple console aplication that gets data from [**nHentai**](www.nhentai.net). You can search troughth the website using console, who needs incognito mode when you can search your investigation stuff in plane text?
 ![App main menu](https://github.com/Aliksaii/Scrapy-nHentai.net/raw/master/web/PIC-01.jpg)
+
 **>> Very discreet, right?**
 
 ## Features
@@ -18,7 +19,6 @@ To download it just enter option --> [**1**]:
 ![Downloading investigation stuff](https://github.com/Aliksaii/Scrapy-nHentai.net/raw/master/web/PIC-04.jpg)
 
 Downloads store in **My Documents** folder, it's the default path:
-
 > **C:\Users\YourUserHere\Documents\Homeworks**
 
 Here will be all **investigation stuff** you downloaded:
@@ -27,6 +27,7 @@ Here will be all **investigation stuff** you downloaded:
 ### You only want to search or download a specific one?
 No problem mate, you only need the magic code to get it:
 ![Is this a 177013 reference?](https://github.com/Aliksaii/Scrapy-nHentai.net/raw/master/web/PIC-06.jpg)
+
 
 And there is, now you can **download** it or not...
 ![Oh no, 177013](https://github.com/Aliksaii/Scrapy-nHentai.net/raw/master/web/PIC-07.jpg)
