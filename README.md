@@ -1,4 +1,7 @@
 # What is Scrapy-nHentai
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ab01bf978d484615b9d8691d1b2d9a8c)](https://app.codacy.com/manual/Aliksaii/Scrapy-nHentai.net?utm_source=github.com&utm_medium=referral&utm_content=Aliksaii/Scrapy-nHentai.net&utm_campaign=Badge_Grade_Dashboard)
+
 **Scrapy-nHentai** is a simple console aplication that gets data from [**nHentai**](www.nhentai.net). You can search troughth the website using console, who needs incognito mode when you can search your investigation stuff in plane text?
 ![App main menu](https://github.com/Aliksaii/Scrapy-nHentai.net/raw/master/web/PIC-01.jpg)
 
